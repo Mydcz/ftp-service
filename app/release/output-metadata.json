@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.welbell.ftpservice",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "22.06.09.02",
+      "outputFile": "ftp_vn22.06.09.02_vc1.apk"
+    }
+  ],
+  "elementType": "File"
+}
